@@ -75,11 +75,4 @@ Digite `1` para QR Codes (em desenvolvimento) ou `2` para Gerador de Senhas.
 
 ---
 
-## 🤝 Contribuição
-
-Sinta-se à vontade para abrir issues ou pull requests:  
-[https://github.com/HenriqueCamarg0/Gerador-de-QR-Codes](https://github.com/HenriqueCamarg0/Gerador-de-QR-Codes)
-
----
-
 Projeto criado para fins de estudo e prática com Node.js e interação via terminal.
